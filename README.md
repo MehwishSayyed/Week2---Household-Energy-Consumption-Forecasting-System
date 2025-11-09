@@ -97,15 +97,15 @@ These plots help visualize how close predictions are to actual values and which 
 4. Run all cells sequentially to reproduce results.
 
 
-🏁 Results Summary
+## 🏁 Results Summary
 
-The Random Forest model provides near-perfect predictions for household energy consumption.
-It can be extended for real-time power monitoring, energy efficiency analysis, or smart grid applications.
+  The Random Forest model provides near-perfect predictions for household energy consumption.
+  It can be extended for real-time power monitoring, energy efficiency analysis, or smart grid applications.
 
-🌟 Acknowledgments
+##🌟 Acknowledgments
 
-UCI Machine Learning Repository for the dataset
-
-Scikit-learn Team for ML tools
-
-Google Colab for providing a free compute environment
+  UCI Machine Learning Repository for the dataset
+  
+  Scikit-learn Team for ML tools
+  
+  Google Colab for providing a free compute environment
